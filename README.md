@@ -1,2 +1,2 @@
 # Ceramic-Profile
-Built sovereign user profile using Ceramic Self.ID
+Created sovereign user profile using Ceramic Self.ID
